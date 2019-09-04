@@ -1,0 +1,77 @@
+input_features: 
+      - 
+        name: G
+        type: numerical
+      # -
+      #   name: GS
+      #   type: numerical
+      # -
+      #   name: Cmp
+      #   type: numerical
+      # -
+      #   name: Att
+      #   type: numerical
+      # -
+      #   name: CmpPercent
+      #   type: numerical
+      # -
+      #   name: Yds
+      #   type: numerical
+      # -
+      #   name: TD
+      #   type: numerical
+      # -
+      #   name: TDPercent
+      #   type: numerical
+      # -
+      #   name: Int
+      #   type: numerical
+      # -
+      #   name: IntPercent
+      #   type: numerical
+      # -
+      #   name: Lng
+      #   type: numerical
+      # -
+      #   name: YPerA
+      #   type: numerical
+      # -
+      #   name: AYPerA
+      #   type: numerical
+      # -
+      #   name: YPerC
+      #   type: numerical
+      # -
+      #   name: YPerG
+      #   type: numerical
+      # -
+      #   name: Rate
+      #   type: numerical
+      # -
+      #   name: QBR
+      #   type: numerical
+      # -
+      #   name: Sk
+      #   type: numerical
+      # -
+      #   name: Yds
+      #   type: numerical
+      # -
+      #   name: NYPerA
+      #   type: numerical
+      # -
+      #   name: ANYPerA
+      #   type: numerical
+      # -
+      #   name: SkPercent
+      #   type: numerical
+      # -
+      #   name: 4QC
+      #   type: numerical
+      # -
+      #   name: GWD
+      #   type: numerical
+output_features:
+    -
+      name: Grade
+      type: category
